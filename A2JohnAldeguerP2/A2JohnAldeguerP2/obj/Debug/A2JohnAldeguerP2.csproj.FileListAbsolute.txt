@@ -5,11 +5,3 @@ D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2John
 D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.exe
 D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.pdb
 D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.csprojAssemblyReference.cache
-C:\Users\johni\OneDrive\Desktop\AldeguerA3\A2JohnAldeguerP2\A2JohnAldeguerP2\bin\Debug\A2JohnAldeguerP2.exe.config
-C:\Users\johni\OneDrive\Desktop\AldeguerA3\A2JohnAldeguerP2\A2JohnAldeguerP2\bin\Debug\A2JohnAldeguerP2.exe
-C:\Users\johni\OneDrive\Desktop\AldeguerA3\A2JohnAldeguerP2\A2JohnAldeguerP2\bin\Debug\A2JohnAldeguerP2.pdb
-C:\Users\johni\OneDrive\Desktop\AldeguerA3\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.csproj.AssemblyReference.cache
-C:\Users\johni\OneDrive\Desktop\AldeguerA3\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.csproj.SuggestedBindingRedirects.cache
-C:\Users\johni\OneDrive\Desktop\AldeguerA3\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.csproj.CoreCompileInputs.cache
-C:\Users\johni\OneDrive\Desktop\AldeguerA3\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.exe
-C:\Users\johni\OneDrive\Desktop\AldeguerA3\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.pdb
