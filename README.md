@@ -16,3 +16,6 @@ I separate the files and my executable files. Download the A2JohnAldeguerP2.exe 
 # Demonstrate Understanding of Version control
 We need to do a test environment to keep control of the software that is running smoothly until to the presentation day including the features, database servers, different devices to use that may compatible on the software.
 reference for this part: https://www.flagship.io/test-environment/
+
+#Download
+To download the file here: https://github.com/john-isabelo/Aldeguer_Info2300_A3/releases
