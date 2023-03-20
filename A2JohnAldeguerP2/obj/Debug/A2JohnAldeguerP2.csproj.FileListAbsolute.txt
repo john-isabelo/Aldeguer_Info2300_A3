@@ -1,0 +1,7 @@
+D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2JohnAldeguerP2\bin\Debug\A2JohnAldeguerP2.exe.config
+D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2JohnAldeguerP2\bin\Debug\A2JohnAldeguerP2.exe
+D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2JohnAldeguerP2\bin\Debug\A2JohnAldeguerP2.pdb
+D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.csproj.CoreCompileInputs.cache
+D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.exe
+D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.pdb
+D:\Conestoga College\IT\PROG1781\assignments\Assignment2\A2JohnAldeguerP2\A2JohnAldeguerP2\obj\Debug\A2JohnAldeguerP2.csprojAssemblyReference.cache
